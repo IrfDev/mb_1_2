@@ -27,3 +27,8 @@ Practica_6
 
 `rm ~/ejemplos/c/c_2`
 
+Practiva_7
+===========
+## Recursive removing
+
+´rm -rf ~/ejemplos´
